@@ -155,6 +155,7 @@ net-misc/mosh
 net-misc/openvpn
 net-misc/socat
 net-misc/tor
+net-misc/youtube-dl
 net-p2p/rtorrent
 net-print/cups
 net-proxy/privoxy
