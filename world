@@ -196,6 +196,7 @@ virtual/jre
 voip/mumble
 www-servers/apache
 www-servers/nginx
+x11-apps/dunst
 x11-apps/i3lock
 x11-apps/redshift
 x11-apps/setroot
