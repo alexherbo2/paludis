@@ -65,7 +65,6 @@ app-shells/fish-shell
 app-spell/hunspell
 app-terminal/asciinema
 app-terminal/ranger
-app-terminal/tmux
 app-text/jq
 app-text/pandoc
 app-text/par
