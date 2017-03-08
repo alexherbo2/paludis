@@ -68,6 +68,7 @@ app-terminal/ranger
 app-text/jq
 app-text/pandoc
 app-text/par
+app-text/tesseract
 app-text/translate-shell
 app-text/zathura
 app-virtualization/docker
