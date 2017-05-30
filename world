@@ -63,7 +63,6 @@ app-shells/dash
 app-shells/fish-shell
 app-spell/hunspell
 app-terminal/asciinema
-app-terminal/lf
 app-terminal/nnn
 app-text/jq
 app-text/pandoc
