@@ -152,6 +152,7 @@ net-irc/ii
 net-mail/fdm
 net-misc/dhcpcd
 net-misc/mosh
+net-misc/openssh
 net-misc/openvpn
 net-misc/socat
 net-misc/tor
