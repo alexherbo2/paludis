@@ -198,6 +198,7 @@ virtual/jre
 voip/mumble
 www-servers/apache
 www-servers/nginx
+x11-apps/alacritty
 x11-apps/dunst
 x11-apps/i3lock
 x11-apps/redshift
