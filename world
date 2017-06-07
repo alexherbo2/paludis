@@ -221,5 +221,6 @@ x11-drivers/xf86-video-intel
 x11-libs/i3ipc-glib
 x11-plugins/i3blocks
 x11-themes/faenza-icon-theme
+x11-utils/xclip
 x11-utils/xsel
 x11-wm/i3
