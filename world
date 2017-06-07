@@ -177,6 +177,7 @@ sys-apps/upower
 sys-devel/cmake
 sys-devel/gcc
 sys-devel/gdb
+sys-devel/make
 sys-fs/dosfstools
 sys-fs/exfat-utils
 sys-fs/fuse
