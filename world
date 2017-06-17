@@ -128,7 +128,6 @@ gnome-desktop/gMTP
 gnome-desktop/gnome-keyring
 gnome-desktop/network-manager-applet
 mail-client/notmuch
-mail-client/sup
 mail-mta/msmtp
 media-gfx/ImageMagick
 media-gfx/blender
