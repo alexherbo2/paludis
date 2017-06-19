@@ -155,6 +155,7 @@ net-misc/dhcpcd
 net-misc/mosh
 net-misc/openssh
 net-misc/openvpn
+net-misc/rsync
 net-misc/socat
 net-misc/tor
 net-misc/youtube-dl
