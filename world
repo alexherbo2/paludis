@@ -104,6 +104,7 @@ dev-ocaml/opam
 dev-python/pip
 dev-ruby/ruby-install
 dev-rust/cargo
+dev-rust/ripgrep
 dev-scala/sbt
 dev-scm/bzr
 dev-scm/darcs
