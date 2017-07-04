@@ -60,6 +60,7 @@ app-misc/dtach
 app-pda/gtkpod
 app-shells/bash
 app-shells/dash
+app-shells/elvish
 app-shells/fish-shell
 app-spell/hunspell
 app-terminal/asciinema
