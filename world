@@ -111,6 +111,7 @@ dev-rust/ripgrep
 dev-scala/sbt
 dev-scm/bzr
 dev-scm/darcs
+dev-scm/git
 dev-scm/libgit2
 dev-scm/mercurial
 dev-scm/subversion
