@@ -81,6 +81,7 @@ app-virtualization/virtualbox-ose
 base/figlet
 base/syslinux
 compositor/weston
+dev-crystal/shards
 dev-db/mongodb
 dev-db/postgresql
 dev-haskell/cabal-install
