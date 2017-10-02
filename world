@@ -144,6 +144,7 @@ media-sound/audacity
 media-sound/id3v2
 media-sound/spotify
 media-video/kdenlive
+media/aegisub
 media/ffmpeg
 media/mpv
 net-analyzer/wireshark
