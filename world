@@ -131,6 +131,7 @@ games-rpg/wakfu
 gnome-desktop/gMTP
 gnome-desktop/gnome-keyring
 gnome-desktop/network-manager-applet
+input/xboxdrv
 mail-client/astroid
 mail-client/notmuch
 mail-mta/msmtp
