@@ -222,6 +222,7 @@ x11-apps/xprop
 x11-apps/xrdb
 x11-drivers/nvidia-drivers
 x11-drivers/xf86-input-evdev
+x11-drivers/xf86-input-joystick
 x11-drivers/xf86-video-ati
 x11-drivers/xf86-video-intel
 x11-libs/i3ipc-glib
