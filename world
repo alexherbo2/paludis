@@ -143,6 +143,7 @@ media-gfx/graphviz
 media-gfx/inkscape
 media-sound/audacity
 media-sound/id3v2
+media-sound/pavucontrol
 media-sound/spotify
 media-video/kdenlive
 media/aegisub
