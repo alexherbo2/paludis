@@ -92,6 +92,7 @@ dev-lang/ghc
 dev-lang/go
 dev-lang/llvm
 dev-lang/lua
+dev-lang/LuaJIT
 dev-lang/node
 dev-lang/ocaml
 dev-lang/perl
