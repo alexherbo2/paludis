@@ -103,6 +103,7 @@ dev-lang/scala
 dev-lang/vala
 dev-libs/quvi
 dev-libs/yajl
+dev-node/yarn
 dev-ocaml/opam
 dev-python/pip
 dev-ruby/ruby-install
