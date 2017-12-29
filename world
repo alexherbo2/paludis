@@ -67,6 +67,7 @@ app-terminal/exa
 app-terminal/fzf
 app-terminal/mtm
 app-terminal/nnn
+app-text/calibre
 app-text/jq
 app-text/pandoc
 app-text/par
