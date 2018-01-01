@@ -150,6 +150,7 @@ media-sound/id3v2
 media-sound/pavucontrol
 media-sound/spotify
 media-video/kdenlive
+media-video/mkvtoolnix
 media/aegisub
 media/ffmpeg
 media/mpv
