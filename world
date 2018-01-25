@@ -57,6 +57,7 @@ app-editors/kakoune
 app-emulation/darling
 app-emulation/dolphin-emu
 app-misc/dtach
+app-misc/reptyr
 app-pda/gtkpod
 app-shells/bash
 app-shells/dash
