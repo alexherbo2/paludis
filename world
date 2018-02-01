@@ -66,6 +66,7 @@ app-spell/hunspell
 app-terminal/asciinema
 app-terminal/exa
 app-terminal/fzf
+app-terminal/fzy
 app-terminal/mtm
 app-terminal/nnn
 app-text/calibre
