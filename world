@@ -123,6 +123,7 @@ dev-tcl/expect
 dev-util/cram
 dev-util/cscope
 dev-util/ctags
+dev-util/grv
 dev-util/ragel
 dev-util/strace
 dev-util/tig
