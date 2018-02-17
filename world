@@ -69,6 +69,7 @@ app-terminal/fzf
 app-terminal/fzy
 app-terminal/mtm
 app-terminal/nnn
+app-terminal/tmux
 app-text/calibre
 app-text/jq
 app-text/pandoc
