@@ -242,7 +242,6 @@ x11-drivers/xf86-input-synaptics
 x11-drivers/xf86-video-ati
 x11-drivers/xf86-video-intel
 x11-libs/i3ipc-glib
-x11-misc/polybar
 x11-misc/rofi
 x11-plugins/i3blocks
 x11-themes/faenza-icon-theme
