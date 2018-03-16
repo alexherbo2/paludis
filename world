@@ -56,6 +56,7 @@ app-editors/atom
 app-editors/kakoune
 app-emulation/darling
 app-emulation/dolphin-emu
+app-laptop/acpi
 app-misc/dtach
 app-misc/reptyr
 app-pda/gtkpod
