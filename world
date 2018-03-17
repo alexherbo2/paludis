@@ -152,6 +152,7 @@ media-gfx/peruse
 media-sound/audacity
 media-sound/id3v2
 media-sound/pavucontrol
+media-sound/sox
 media-sound/spotify
 media-video/kdenlive
 media-video/mkvtoolnix
