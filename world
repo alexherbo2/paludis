@@ -166,6 +166,7 @@ net-ftp/ncftp
 net-im/bitlbee
 net-im/skype
 net-irc/ii
+net-irc/weechat
 net-mail/fdm
 net-misc/dhcpcd
 net-misc/mosh
