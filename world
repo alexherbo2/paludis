@@ -244,6 +244,7 @@ x11-drivers/xf86-input-synaptics
 x11-drivers/xf86-video-ati
 x11-drivers/xf86-video-intel
 x11-libs/i3ipc-glib
+x11-misc/lemonbar
 x11-misc/rofi
 x11-misc/sxhkd
 x11-misc/xdo
