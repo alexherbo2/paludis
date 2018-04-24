@@ -248,4 +248,5 @@ x11-misc/rofi
 x11-plugins/i3blocks
 x11-themes/faenza-icon-theme
 x11-utils/xclip
+x11-wm/bspwm
 x11-wm/i3
