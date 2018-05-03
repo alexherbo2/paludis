@@ -65,6 +65,7 @@ app-shells/dash
 app-shells/elvish
 app-spell/hunspell
 app-terminal/asciinema
+app-terminal/bat
 app-terminal/exa
 app-terminal/fzf
 app-terminal/fzy
