@@ -178,6 +178,7 @@ net-misc/socat
 net-misc/tor
 net-misc/youtube-dl
 net-p2p/axon
+net-p2p/rtorrent
 net-p2p/synapse
 net-plugins/adobe-flash
 net-print/cups
