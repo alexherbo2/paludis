@@ -157,6 +157,7 @@ media-sound/sox
 media-sound/spotify
 media-video/kdenlive
 media-video/mkvtoolnix
+media-video/peek
 media/aegisub
 media/ffmpeg
 media/mpv
