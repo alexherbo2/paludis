@@ -185,6 +185,7 @@ net-plugins/adobe-flash
 net-print/cups
 net-proxy/privoxy
 net-proxy/torsocks
+net-wireless/iw
 net-wireless/wpa_supplicant
 net-www/chromium-dev
 net-www/chromium-dev-flash-plugin
