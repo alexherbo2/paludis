@@ -205,6 +205,7 @@ sys-devel/make
 sys-fs/dosfstools
 sys-fs/exfat-utils
 sys-fs/fuse
+sys-fs/gparted
 sys-fs/inotify-tools
 sys-fs/ntfs-3g_ntfsprogs
 sys-fs/sshfs-fuse
