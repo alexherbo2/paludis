@@ -62,7 +62,6 @@ app-misc/reptyr
 app-pda/gtkpod
 app-shells/bash
 app-shells/dash
-app-shells/elvish
 app-spell/hunspell
 app-terminal/asciinema
 app-terminal/bat
